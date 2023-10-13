@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">WeatherAppCurseY</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">F1</string>
+    <string name="_22_06_2023">22/06/2023 13:00</string>
+    <string name="madrid">Madrid</string>
+    <string name="_27">27ºC</string>
+    <string name="_34_c_15_c">34ºC/15ºC</string>
+    <string name="sunny">Sunny</string>
+    <string name="hours">Hours</string>
+    <string name="days">Days</string>
+    <string name="thursday_22_06_2023">Thursday 22/06/2023</string>
+    <string name="_25_c">25ºC</string>
+    <string name="empty">Empty</string>
+</resources>
